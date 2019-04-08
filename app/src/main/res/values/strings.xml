@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="title_activity_register">Sign up</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login">Sign in</string>
+
+
+    <string-array name="states">
+        <item>Select State</item>
+        <item>AndraPradesh</item>
+
+    </string-array>
+
+    <string-array name="districts">
+        <item>Select District</item>
+        <item>Chittoor</item>
+        <item>Kadapa</item>
+        <!--<item>Ananthapur</item>
+        <item>East Godavari</item>
+        <item>Guntur</item>
+        <item>Krishna</item>
+        <item>Kurnool</item>
+        <item>Nellore</item>
+        <item>Prakasam</item>
+        <item>Srikakulam</item>
+        <item>Visakhapatnam</item>
+        <item>Vizianagaram</item>
+        <item>West Godavari</item>
+-->
+    </string-array>
+    <string-array name="chittoor_areas">
+        <item>Select Area</item>
+        <item>Piler</item>
+        <item>Tirupathi</item>
+        <item>Puttur</item>
+        <item>Nagari</item>
+        <item>SR Puram</item>
+        <item>GD Nellore</item>
+        <item>Puthalapattu</item>
+        <item>Vadamalapet</item>
+        <item>Narayana Vanam</item>
+        <item>Srikalahasthi</item>
+        <item>Pakala</item>
+        <item>Damlacheruvu</item>
+        <item>Pattoor</item>
+        <item>Irala</item>
+        <item>Chandragiri</item>
+    </string-array>
+    <string-array name="kadapa_areas">
+        <item>Annavaram</item>
+        <item>Badvel</item>
+        <item>Gopavaram</item>
+        <item>Idupulapaya IIIT</item>
+        <item>Jammalamadugu</item>
+        <item>Kodur</item>
+        <item>Konampet</item>
+        <item>Koneti Raju Kandrika</item>
+        <item>Kopparthi</item>
+        <item>Korlakunta</item>
+        <item>Malepadu</item>
+        <item>Nagavaram</item>
+        <item>Nandalur</item>
+        <item>Rajampet</item>
+        <item>Nandimandalam</item>
+
+    </string-array>
+
+</resources>
+
+

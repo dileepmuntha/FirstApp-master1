@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "639190647431",
+    "firebase_url": "https://village-monitoring-4aab1.firebaseio.com",
+    "project_id": "village-monitoring-4aab1",
+    "storage_bucket": "village-monitoring-4aab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639190647431:android:4b27071f992a7381",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639190647431-i54k20p1m2kl5j5cc24ghpcnu8kn5s5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstapp",
+            "certificate_hash": "15bcd451380c322a3f950913f4d877bbb8812042"
+          }
+        },
+        {
+          "client_id": "639190647431-9q0dcjh1kt7b68om9tvun67kcijrsvlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstapp",
+            "certificate_hash": "b5f50772b68ce98bac955a728a97860057d90d6e"
+          }
+        },
+        {
+          "client_id": "639190647431-vukpg6aa5r423ppfkeki1q3tia9aii5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstapp",
+            "certificate_hash": "96171fad50e5b26f2c1a36b792311ef0b16f1b30"
+          }
+        },
+        {
+          "client_id": "639190647431-l8a7js67ntbg21kcl225d5djqqmtqd7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstapp",
+            "certificate_hash": "182fc71671f459772f74ba73dc0453dd482f64b7"
+          }
+        },
+        {
+          "client_id": "639190647431-tsnshoq9a7silqa24138sr7s21kke6mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWHYzKTyn6dUuxN7zC7VJC2nETjmyGbM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639190647431-tsnshoq9a7silqa24138sr7s21kke6mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

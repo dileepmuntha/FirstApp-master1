@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AboutApp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <Button
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:text="Feedback"
+            android:onClick="feedback"
+            android:background="#10DF18"
+            android:textSize="25sp"
+
+            android:layout_marginTop="150dp"
+            android:layout_marginLeft="50dp"
+            />
+        <Button
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:text="Version"
+            android:layout_marginTop="150dp"
+            android:onClick="version"
+            android:background="#10DF18"
+            android:textSize="25sp"
+
+            android:layout_marginLeft="50dp"
+            />
+    </LinearLayout>
+    <Button
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:text="Terms and Privacy Policy"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:background="#10DF18"
+        android:onClick="privacy"
+
+        />
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:src="@drawable/share"
+        android:onClick="Share"
+        android:layout_marginLeft="170dp"
+
+        android:layout_marginTop="80dp"
+        />
+
+</LinearLayout>
